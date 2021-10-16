@@ -8,6 +8,8 @@ I am an active person who likes to learn all kinds of things about servers and p
 ## Skills:
 [![C++](https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=c++&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Lua](https://img.shields.io/badge/Lua-FFCA28?style=for-the-badge&logo=lua&logoColor=white&labelColor=101010)]()
 </br>
 And more...
 
