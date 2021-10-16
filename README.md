@@ -12,7 +12,7 @@ And more...
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danigracia@protonmail.ch)
 - 📭 Contact: Mail - danigracia@protonmail.ch or Discord - Sonk | 127.147.54.4#2333
 <!--
 **Sonklol/Sonklol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
