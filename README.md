@@ -1,5 +1,11 @@
 ### About Me
+I am an active person who likes to learn all kinds of things about servers and programming
+- 🌱 I’m currently studying Network Information Systems Administration 
+- 🔭 Currently I develop a FiveM Server where I program and edit several scripts related to ESX Framework 
+- 📭 Contact: Mail - danigracia@protonmail.ch or Discord - Sonk | 127.147.54.4#2333
 
+- 💬 What’s that 127.147.54.4?
+      It is an IP address that refers to the interface of loopback. 127.0.0.1 or localhost = 127.147.54.4
 <!--
 **Sonklol/Sonklol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
