@@ -15,7 +15,7 @@ I am an active person who likes to learn all kinds of things about servers and p
 And more...
 
 ## Contact me:
-- 📭 Contact: Mail - danigracia@protonmail.ch or Discord - Sonk | 127.147.54.4#2333
+- 📭 Contact: Mail - admin@sonk.ml or Discord - Sonk | 127.147.54.4#2333
 
 <!--
 **Sonklol/Sonklol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
