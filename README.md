@@ -1,3 +1,24 @@
+# Sobre mi
+Soy una persona activa a la que le gusta aprender todo tipo de cosas sobre servidores y programación. 
+- 🌱 Actualmente estoy estudiando Administración de Sistemas informáticos en Red. 
+- 🔭 Actualmente desarrollo un FiveM Server donde programo y edito varios scripts relacionados con ESX Framework, aunque también hago algunas cosillas en diferentes lenguajes 
+- 💬 ¿Qúe es esto 127.147.54.4?
+      ->Es una dirección IP que se refiere a la interfaz de loopback. 127.0.0.1 (localhost) = 127.147.54.4
+      
+## Habilidades:
+[![Lua](https://img.shields.io/badge/Lua-FFCA28?style=for-the-badge&logo=lua&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=c++&logoColor=white&labelColor=101010)]()
+</br>
+[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+</br>
+y más...
+
+## Contactame:
+- 📭 Contacto: Mail - admin@sonk.ml o Discord - Sonk | 127.147.54.4#2333
+
+----------------------------------------------------------------------------------------------------------------------
+
 # About Me
 I am an active person who likes to learn all kinds of things about servers and programming
 - 🌱 I’m currently studying Administration of Networked Computer Systems
@@ -12,11 +33,10 @@ I am an active person who likes to learn all kinds of things about servers and p
 </br>
 [![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
-And more...
+and more...
 
 ## Contact me:
 - 📭 Contact: Mail - admin@sonk.ml or Discord - Sonk | 127.147.54.4#2333
-
 <!--
 **Sonklol/Sonklol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
