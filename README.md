@@ -6,7 +6,7 @@ Soy una persona activa a la que le gusta aprender todo tipo de cosas sobre servi
       ->Es una dirección IP que se refiere a la interfaz de loopback. 127.0.0.1 (localhost) = 127.147.54.4
 
 ## Contactame:
-- 📭 Contacto: Mail - danigracia@protonmail.ch o Discord - Sonk | 127.147.54.4#2333
+- 📭 Contacto: Mail - admin@sonk.es o Discord - Sonk | 127.147.54.4#2333
 
 ----------------------------------------------------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ I am an active person who likes to learn all kinds of things about servers and p
       ->It is an IP address that refers to the interface of loopback. 127.0.0.1 or localhost = 127.147.54.4
 
 ## Contact me:
-- 📭 Contact: Mail - danigracia@protonmail.ch or Discord - Sonk | 127.147.54.4#2333
+- 📭 Contact: Mail - admin@sonk.es or Discord - Sonk | 127.147.54.4#2333
 <!--
 **Sonklol/Sonklol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
