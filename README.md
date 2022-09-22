@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=sonklol)
+
 # Sobre mi
 Soy una persona activa a la que le gusta aprender todo tipo de cosas sobre servidores y programación. 
 - 🌱 Actualmente estoy estudiando Administración de Sistemas informáticos en Red. 
@@ -33,6 +35,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/427872717027672065)](https://discord.com/users/427872717027672065)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sonklol)
+[![Discord Presence](https://lanyard.cnrad.dev/api/427872717027672065)](https://discord.com/users/427872717027672065)
