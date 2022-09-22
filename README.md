@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Discord Presence](https://lanyard.cnrad.dev/api/427872717027672065)](https://discord.com/users/427872717027672065)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=sonklol)
