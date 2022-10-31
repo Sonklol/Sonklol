@@ -1,11 +1,16 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sonklol)
 
 # Sobre mi
+
+[![Mickeys's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonklol&theme=radical)](https://github.com/Sonklol)
+
 Soy una persona activa a la que le gusta aprender todo tipo de cosas sobre servidores y programación. 
 - 🌱 Actualmente estoy estudiando Administración de Sistemas informáticos en Red. 
 - 🔭 Actualmente desarrollo un FiveM Server donde programo y edito varios scripts relacionados con ESX Framework, aunque también hago algunas cosillas en diferentes lenguajes 
 - 💬 ¿Qúe es esto 127.147.54.4?
       ->Es una dirección IP que se refiere a la interfaz de loopback. 127.0.0.1 (localhost) = 127.147.54.4
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonklol&layout=compact)](https://github.com/Sonklol)
 
 ## Contactame:
 - 📭 Contacto: Mail - admin@sonk.es o Discord - Sonk#2333
