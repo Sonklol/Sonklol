@@ -12,7 +12,7 @@ I am an active person who likes to learn all kinds of things about servers and p
 
 # Languages I Know:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonklol&layout=compact)](https://github.com/Sonklol)
+[![Top Langs]()](https://github.com/Sonklol)
 
 ## Contact me:
 - 📭 Contact: Mail - admin@sonk.es or Discord - Sonk#2333
